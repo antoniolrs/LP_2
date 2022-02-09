@@ -17,7 +17,7 @@ class Hello2DFrame extends JFrame {
                 }
             }
         );		
-        this.setTitle("Java2D - Hello World!");
+        this.setTitle("Java2D - Hello World 2022!");
         this.setSize(350, 350);
         this.setVisible(true);
         getContentPane().setBackground(Color.blue);
